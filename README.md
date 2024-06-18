@@ -28,6 +28,3 @@ java Principal.java (executa o projeto)
 
 
 Pronto, o projeto foi compilado e executado.
-
-## E isso é tudo pessoal!
-![ThatsAllFolks](https://github.com/bbering/arvoregenealogicapc03/blob/main/thread/assets/thatsallfolks.png)
